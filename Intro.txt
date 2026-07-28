@@ -2,6 +2,10 @@ Hello World
 
 PSL
 
+<<<<<<< HEAD
 1
 2
 3
+=======
+My Name is Rajiv
+>>>>>>> main
